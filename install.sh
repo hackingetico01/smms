@@ -62,6 +62,6 @@ echo -e "${verde}
 └═══════════════════════┘
 ┃
 ┃    ┌═════════════┐
-└═>>>█ ${blanco}./SETSMS.sh ${verde}█
+└═>>>█ ${verde}./ingresar ${morado}█
      └═════════════┘
 "${blanco}
